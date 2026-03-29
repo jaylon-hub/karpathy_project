@@ -1,0 +1,1 @@
+本仓库是karpathy从零开始实现chatgpt的完整版可运行代码

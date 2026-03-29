@@ -1,0 +1,15 @@
+{
+    "python-envs.pythonProjects": [
+        {
+            "path": "python设计模式/6. 菜鸟教程python设计模式习题答案",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip",
+            "workspace": "learning_python"
+        },
+        {
+            "path": ".",
+            "envManager": "ms-python.python:conda",
+            "packageManager": "ms-python.python:conda"
+        }
+    ]
+}
