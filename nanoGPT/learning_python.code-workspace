@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../learning_python"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"python-envs.pythonProjects": [
+			{
+				"path": "python设计模式/6. 菜鸟教程python设计模式习题答案",
+				"envManager": "ms-python.python:venv",
+				"packageManager": "ms-python.python:pip",
+				"workspace": "learning_python"
+			}
+		]
+	}
+}
